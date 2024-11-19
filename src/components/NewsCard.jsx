@@ -1,5 +1,5 @@
-import { FaShareAlt, FaRegEye } from "react-icons/fa";
 import { AiFillStar } from "react-icons/ai";
+import { FaRegEye, FaShareAlt } from "react-icons/fa";
 
 const NewsCard = (props = {}) => {
   const { news } = props || {};
